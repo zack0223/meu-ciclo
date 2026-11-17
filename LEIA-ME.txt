@@ -1,0 +1,12 @@
+MEU CICLO — PACOTE COM CAPA
+
+Conteúdo:
+- app.py: aplicação Python atualizada para carregar a capa na mesma pasta.
+- capa_meu_ciclo.png: capa em PNG, 1200 x 675 (16:9).
+
+Para publicar:
+1. Envie app.py e capa_meu_ciclo.png para a mesma pasta do Hugging Face Space.
+2. Configure as dependências e as variáveis secretas da Hotmart no servidor.
+3. Garanta um Volume persistente para a base de dados, se necessário.
+
+A capa está integrada no código por referência ao ficheiro local.
